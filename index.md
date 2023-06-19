@@ -1,6 +1,8 @@
 # Hello!
 
-This is a test of Github Pages!
+Welcome to my small corner of Github. 
+
+There's not much here now, but I'm working on that. 
 
 ## Index
 
